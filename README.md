@@ -2,7 +2,7 @@
 
 ### Short Description
 
-My **Dynamic Web Apps** mainly focusses on Code Styles / Style Guides. I've been tasked to answer a few questions concerning it to successfully complete my **Dynamic Web Apps** challenge.  I've tried to answer to the best of my ability. 
+This **Dynamic Web Apps** challenge mainly focusses on Code Styles / Style Guides. I've been tasked to answer a few questions concerning it to successfully complete my **Dynamic Web Apps** challenge.  I've tried to answer to the best of my ability. 
 
 ### How to access my challenge
 
